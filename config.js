@@ -4,5 +4,5 @@
 // Con la URL puesta, al abrir la app solo se pide la contraseña.
 // Si la dejas vacía, la pantalla de inicio de sesión también pedirá la URL.
 window.MIS_FINANZAS = {
-  url: ""
+  url: "https://script.google.com/macros/s/AKfycbyG12H2PpR75FyWN3z3ipbouLyG1E0itjz9USAcM7Dfk34L1LYgXt5mXCggQ9Gp_t8PTw/exec"
 };
